@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/spa-game/static/css/main.e4344729.css",
-    "main.js": "/spa-game/static/js/main.046cae14.js",
+    "main.js": "/spa-game/static/js/main.6ab5f538.js",
     "index.html": "/spa-game/index.html",
     "main.e4344729.css.map": "/spa-game/static/css/main.e4344729.css.map",
-    "main.046cae14.js.map": "/spa-game/static/js/main.046cae14.js.map"
+    "main.6ab5f538.js.map": "/spa-game/static/js/main.6ab5f538.js.map"
   },
   "entrypoints": [
     "static/css/main.e4344729.css",
-    "static/js/main.046cae14.js"
+    "static/js/main.6ab5f538.js"
   ]
 }
