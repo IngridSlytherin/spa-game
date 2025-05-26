@@ -4,15 +4,15 @@ function Noticias() {
   const noticias = [
     {
       titulo: '🚀 GTA VI pode ser anunciado em breve!',
-      imagem: '/imagens/gta6.jpg',
+      imagem: 'imagens/gta6.jpg',
     },
     {
       titulo: '🔥 Fortnite ganha modo inédito de sobrevivência.',
-      imagem: '/imagens/fortnite.jpg',
+      imagem: 'imagens/fortnite.jpg',
     },
     {
       titulo: '🎮 The Legend of Heroes chega amanhã!',
-      imagem: '/imagens/road-rash.jpg',
+      imagem: 'imagens/road-rash.jpg',
     },
     
   ];
