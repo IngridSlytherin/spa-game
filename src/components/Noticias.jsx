@@ -14,7 +14,6 @@ function Noticias() {
       titulo: '🎮 The Legend of Heroes chega amanhã!',
       imagem: 'imagens/road-rash.jpg',
     },
-    
   ];
 
   return (
@@ -23,7 +22,7 @@ function Noticias() {
       <div className="noticias">
         {noticias.map((noticia, index) => (
           <div key={index} className="card">
-            <img src={noticia.imagem} alt={noticia.titulo} />
+            <img src={`${process.env.PUBLIC_URL}/${noticia.imagem}`} alt={noticia.titulo} />
             <h3>{noticia.titulo}</h3>
           </div>
         ))}
